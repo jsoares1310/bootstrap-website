@@ -1,0 +1,50 @@
+:root {
+  font-size: 16px;
+
+
+  /* Mobile Fonts */
+  --biggest-mobile: 2.75rem;
+  --bigger-mobile: 2rem;
+  --big-mobile: 1.75rem;
+  --h1-mobile: 1.5rem;
+  --h2-mobile: 1.25rem;
+  --h3-mobile: 1rem;
+  --h4-mobile: 0.938rem;
+  --small-mobile: 0.813rem;
+  --smaller-mobile: 0.75rem;
+
+  /* Desktop Fonts */
+  --biggest: 6rem;
+  --bigger: 4rem;
+  --big: 3.5rem;
+  --h1: 2.25rem;
+  --h2: 1.5rem;
+  --h3: 1.25rem;
+  --h4: 1rem;
+  --small: 0.875rem;
+  --smaller: 0.813rem;
+
+  /* COLORS */
+  --container-blue: #252B42;
+  --container-white: #FAFAFA;
+  --background-light-blue: #23A6F0;
+
+  --font-color-white: #FFFFFF;
+  --font-color-blue: #252B42;
+  --font-color-grey: #737373;
+
+}
+
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
